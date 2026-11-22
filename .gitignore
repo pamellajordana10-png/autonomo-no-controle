@@ -1,0 +1,12 @@
+# dependencias e builds
+node_modules/
+.vercel/
+dist/
+
+# segredos — NUNCA suba valores reais
+.env
+.env.local
+.env.*.local
+
+# sistema
+.DS_Store

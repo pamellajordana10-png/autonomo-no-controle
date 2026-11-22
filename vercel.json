@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/webhooks/cakto.ts": {
+      "maxDuration": 10
+    }
+  }
+}
