@@ -1,7 +1,1 @@
-{
-  "functions": {
-    "api/webhooks/cakto.ts": {
-      "maxDuration": 10
-    }
-  }
-}
+{"$schema": "https://openapi.vercel.sh/vercel.json"}
